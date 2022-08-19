@@ -83,6 +83,10 @@ p{
   right: 300px;
 }
 
+.mountain{
+  height: 150px;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
